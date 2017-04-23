@@ -1,6 +1,6 @@
 # Resize Pong [WiP]
 
-A game of Pong that runs on a Windows Command Prompt, using the height of the window to control the player's position.
+A game of Pong that runs on a Windows Command Prompt (compiled from VS F#) and uses the height of the window to control the player's position.
 
 <p align="center">
   <img src="http://i.imgur.com/QJCSDmO.png"/>
@@ -8,7 +8,6 @@ A game of Pong that runs on a Windows Command Prompt, using the height of the wi
 
 ## TODO list:
 
-- Computer paddle movement
 - Fix ~~bugs~~ undocumented features
 - ???
 - Profit
